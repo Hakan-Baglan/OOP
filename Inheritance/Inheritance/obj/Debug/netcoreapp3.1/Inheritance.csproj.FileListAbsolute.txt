@@ -1,0 +1,14 @@
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache

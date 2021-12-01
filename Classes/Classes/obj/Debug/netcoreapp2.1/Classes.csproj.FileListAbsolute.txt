@@ -1,0 +1,13 @@
+C:\Users\Machine\source\repos\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.deps.json
+C:\Users\Machine\source\repos\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.runtimeconfig.json
+C:\Users\Machine\source\repos\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.runtimeconfig.dev.json
+C:\Users\Machine\source\repos\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.dll
+C:\Users\Machine\source\repos\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.pdb
+C:\Users\Machine\source\repos\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.csproj.AssemblyReference.cache
+C:\Users\Machine\source\repos\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Machine\source\repos\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.AssemblyInfoInputs.cache
+C:\Users\Machine\source\repos\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.AssemblyInfo.cs
+C:\Users\Machine\source\repos\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Machine\source\repos\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.dll
+C:\Users\Machine\source\repos\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.pdb
+C:\Users\Machine\source\repos\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.genruntimeconfig.cache

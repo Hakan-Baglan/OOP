@@ -1,0 +1,14 @@
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\bin\Debug\netcoreapp3.1\RecapDemo2.exe
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\bin\Debug\netcoreapp3.1\RecapDemo2.deps.json
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\bin\Debug\netcoreapp3.1\RecapDemo2.runtimeconfig.json
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\bin\Debug\netcoreapp3.1\RecapDemo2.runtimeconfig.dev.json
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\bin\Debug\netcoreapp3.1\RecapDemo2.dll
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\bin\Debug\netcoreapp3.1\RecapDemo2.pdb
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.csproj.AssemblyReference.cache
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.AssemblyInfoInputs.cache
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.AssemblyInfo.cs
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.dll
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.pdb
+C:\Users\Machine\Documents\Projeler\Nesne Yönelimli Programlama (OOP) örnekleri\RecapDemo2\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.genruntimeconfig.cache
